@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-<h1 align="center">Hi 👋, I'm Shaheer Zia Qazi</h1>
+<h1 align="center">Hi 👋, I'm Izhar Malik</h1>
 <h3 align="center">Dynamic and skilled Software Engineer with a passion for innovation and leadership. Experienced in a wide range of technologies including web development, mobile app development, AI, and graphic design. Committed to continuous learning and making meaningful contributions in a dynamic environment.</h3>
 
 
