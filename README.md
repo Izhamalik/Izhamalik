@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Izhamalik)
 
- - 🌐 My Social Handles: [Link Tree](https://linktr.ee/shaheerziaqazi)
+ - 🌐 My Social Handles: [Link Tree](https://linktr.ee/izharmalik)
 
  - 📄 My Resume: [View CV](https://drive.google.com/file/d/18lDjquf0PT-nCNv_zUXkwR_oax9Bmlzf/view?usp=sharing)
    
