@@ -13,7 +13,7 @@
 
 - 🏢 I’ve worked as a Flutter Developer at Duseca Software, ML Intern, and Graphic Designer at Disruptive AI and Android Developer at Voice Seperator AI.
 
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/sherryzia)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Izhamalik)
 
  - 🌐 My Social Handles: [Link Tree](https://linktr.ee/shaheerziaqazi)
 
