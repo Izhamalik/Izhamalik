@@ -17,7 +17,7 @@
 
  - 🌐 My Social Handles: [Link Tree](https://linktr.ee/izharmalik)
 
- - 📄 My Resume: [View CV](https://drive.google.com/file/d/18lDjquf0PT-nCNv_zUXkwR_oax9Bmlzf/view?usp=sharing)
+ - 📄 My Resume: [View CV](https://drive.google.com/file/d/180ZtMpLeYmj4KpewWG7m1k7uf4_qb3z2/view?usp=drivesdk)
    
 ### Awards, Certifications, and Recognitions
   
