@@ -3,7 +3,7 @@
 <h3 align="center">Dynamic and skilled Software Engineer with a passion for innovation and leadership. Experienced in a wide range of android application developed using Kotlin and java. Committed to continuous learning and making meaningful contributions in a dynamic environment.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherryzia&label=Profile%20views&color=0e75b6&style=flat" alt="sherryzia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Izhamalik&label=Profile%20views&color=0e75b6&style=flat" alt="Izhamalik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Izhamalik" alt="Izhamalik" /></a> </p>
 
