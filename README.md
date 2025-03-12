@@ -20,33 +20,20 @@
  - 📄 My Resume: [View CV](https://drive.google.com/file/d/180ZtMpLeYmj4KpewWG7m1k7uf4_qb3z2/view?usp=drivesdk)
    
 ### Awards, Certifications, and Recognitions
+
   
-- Certificate of Participation in SoftFest Coding Competition NUML
-  
-- Certificate of Appreciation for Organizing and Conducting IEEE Workshop Series 2023
-  
-- Certificate of Participation in Poster Designing Competition in IEEE SB NUML Rwp
-  
-- Certificate of Participation in Workshop on Graphic Designing in IEEE SB NUML Rwp
-  
-- Certificate of Participation at IEEE CIS Summer School 2022 held at Riphah University
-  
-- Certificate of Participation for Attending IEEE Region-10 Young Professional UpSkills’23 - IEEE NUST SB
-  
-- Internship Certification at Disruptive AI
-  
-- ML Engineer & Graphic Designer Certification at Disruptive AI
+- Employee of the Month Award! (The ITZON) - October 2022
+- Employee of the Month Award! (Technest) - August 2023
+- Employee of the Year Award! (Technest) - 2024
 
 
 <h3 align="left">⚡ Hobbies</h3>
 
 - Exploring Technologies
-- Video Editing
 - Leading Student Societies
 - Coding
 - Workshop Participation
 - Pursuing Certifications
-- Graphic & UI/UX Designing
 - Community Service
 
 
