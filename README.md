@@ -46,7 +46,7 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Izhamalik&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="sherryzia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Izhamalik&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="izhamalik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Izhamalik&show_icons=true&theme=vue-dark&locale=en" alt="sherryzia" /></p>
 
