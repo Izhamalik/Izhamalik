@@ -84,15 +84,13 @@ object IzharMalik : Developer {
 
 ## Featured projects
 
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 / ... with your best repositories. -->
+<!-- Filled automatically from your pinned repositories. Pin your best repos on your profile to control what shows here. -->
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Izhamalik&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Izhamalik/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Izhamalik&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Izhamalik/REPO_NAME_2)
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Izhamalik&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/Izhamalik/REPO_NAME_3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=Izhamalik&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/Izhamalik/REPO_NAME_4)
+<!--PROJECTS:START-->
+<img src="./assets/projects/placeholder.svg" width="49%" alt="Projects"/>
+<!--PROJECTS:END-->
 
 </div>
 
@@ -102,10 +100,8 @@ object IzharMalik : Developer {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Izhamalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhamalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Izhamalik&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="./assets/stats.svg" width="49%" alt="GitHub stats"/>
+<img src="./assets/languages.svg" width="49%" alt="Most used languages"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Izhamalik/Izhamalik/output/github-snake-dark.svg"/>
