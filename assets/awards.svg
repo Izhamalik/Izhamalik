@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Awards: Employee of the Month Oct 2022 at ITZON, Employee of the Month Aug 2023 at Technest, Employee of the Year 2024 at Technest">
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="1" stop-color="#f2a900"/></linearGradient>
+    <linearGradient id="silver" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#8b98ad"/></linearGradient>
+    <symbol id="star" viewBox="-24 -24 48 48"><path d="M0-22 6.5-7.5 22-6 10.5 4.5 13.5 20 0 12 -13.5 20 -10.5 4.5 -22-6 -6.5-7.5Z"/></symbol>
+  </defs>
+  <style>
+    .s{font-family:'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+    .glint{transform-box:fill-box;transform-origin:center;animation:g 3.2s ease-in-out infinite}
+    @keyframes g{0%,100%{transform:rotate(0) scale(1)}50%{transform:rotate(14deg) scale(1.12)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g class="s">
+    <rect x="0" y="0" width="380" height="130" rx="18" fill="#0d1117" stroke="#262f45"/>
+    <use href="#star" x="34" y="34" width="56" height="56" fill="url(#silver)"/>
+    <text x="110" y="62" font-size="18" font-weight="700" fill="#e6edf3">Employee of the Month</text>
+    <text x="110" y="90" font-size="16" fill="#9aa7c0">ITZON, October 2022</text>
+
+    <rect x="410" y="0" width="380" height="130" rx="18" fill="#0d1117" stroke="#262f45"/>
+    <use href="#star" x="444" y="34" width="56" height="56" fill="url(#silver)"/>
+    <text x="520" y="62" font-size="18" font-weight="700" fill="#e6edf3">Employee of the Month</text>
+    <text x="520" y="90" font-size="16" fill="#9aa7c0">Technest, August 2023</text>
+
+    <rect x="820" y="0" width="380" height="130" rx="18" fill="#161207" stroke="#f2a900"/>
+    <use class="glint" href="#star" x="854" y="34" width="56" height="56" fill="url(#gold)"/>
+    <text x="930" y="62" font-size="18" font-weight="700" fill="#ffe08a">Employee of the Year</text>
+    <text x="930" y="90" font-size="16" fill="#d9b45a">Technest, 2024</text>
+  </g>
+</svg>

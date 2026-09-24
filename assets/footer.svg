@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Let's build something amazing together">
+  <defs>
+    <linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#3DDC84"/><stop offset=".5" stop-color="#4C8DF6"/><stop offset="1" stop-color="#7F52FF"/></linearGradient>
+  </defs>
+  <style>
+    .a{animation:s 9s ease-in-out infinite alternate}.b{animation:s 13s ease-in-out infinite alternate-reverse}
+    @keyframes s{from{transform:translateX(-60px)}to{transform:translateX(60px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g fill="url(#w)">
+    <path class="b" opacity=".35" d="M-100 70C100 30 250 110 450 70S800 30 1000 70 1250 90 1300 70V160H-100Z"/>
+    <path class="a" opacity=".6" d="M-100 95C100 60 300 125 500 95S850 65 1050 95 1250 110 1300 95V160H-100Z"/>
+    <path opacity="1" d="M0 120C200 95 400 140 600 120S1000 100 1200 120V160H0Z"/>
+  </g>
+  <text x="600" y="146" text-anchor="middle" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="20" font-weight="600" fill="#06101f">Let's build something amazing together</text>
+</svg>
