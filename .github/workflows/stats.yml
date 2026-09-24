@@ -5,8 +5,7 @@ on:
     - cron: "0 */12 * * *"   # twice a day
   workflow_dispatch:          # run manually from the Actions tab
   push:
-    paths:
-      - ".github/scripts/generate_stats.py"
+    branches: [main]          # runs automatically whenever you push, no manual click needed
 
 permissions:
   contents: write
