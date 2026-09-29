@@ -90,9 +90,10 @@ object IzharMalik : Developer {
 
 <!--PROJECTS:START-->
 <a href="https://github.com/Izhamalik/Kotlin-Coroutines"><img src="./assets/projects/Kotlin-Coroutines.svg" width="49%" alt="Kotlin-Coroutines"/></a>
-<a href="https://github.com/Izhamalik/Izhamalik"><img src="./assets/projects/Izhamalik.svg" width="49%" alt="Izhamalik"/></a>
 <a href="https://github.com/Izhamalik/kotlin-flow-channels-compose"><img src="./assets/projects/kotlin-flow-channels-compose.svg" width="49%" alt="kotlin-flow-channels-compose"/></a>
 <a href="https://github.com/Izhamalik/NavGraph"><img src="./assets/projects/NavGraph.svg" width="49%" alt="NavGraph"/></a>
+<a href="https://github.com/Izhamalik/Izhamalik"><img src="./assets/projects/Izhamalik.svg" width="49%" alt="Izhamalik"/></a>
+
 <!--PROJECTS:END-->
 
 </div>
