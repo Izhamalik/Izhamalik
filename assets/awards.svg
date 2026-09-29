@@ -20,7 +20,7 @@
     <rect x="410" y="0" width="380" height="130" rx="18" fill="#0d1117" stroke="#262f45"/>
     <use href="#star" x="444" y="34" width="56" height="56" fill="url(#silver)"/>
     <text x="520" y="62" font-size="18" font-weight="700" fill="#e6edf3">Employee of the Month</text>
-    <text x="520" y="90" font-size="16" fill="#9aa7c0">Technest, August 2023</text>
+    <text x="520" y="90" font-size="16" fill="#9aa7c0">Technest, Dec 2023</text>
 
     <rect x="820" y="0" width="380" height="130" rx="18" fill="#161207" stroke="#f2a900"/>
     <use class="glint" href="#star" x="854" y="34" width="56" height="56" fill="url(#gold)"/>
